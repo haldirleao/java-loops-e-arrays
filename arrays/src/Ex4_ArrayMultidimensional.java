@@ -32,11 +32,11 @@ public class Ex4_ArrayMultidimensional {
             }
             System.out.println();
         }
-        
+
         System.out.println("Elementos M[i][j]: ");
         for (int i = 0; i < M.length; ++i) {
             for (int j = 0; j < M[i].length; ++j) {
-                System.out.println("M["+i+"]["+j+"]: " + M[i][j]);
+                System.out.println("M[" + i + "][" + j + "]: " + M[i][j]);
             }
         }
     }
