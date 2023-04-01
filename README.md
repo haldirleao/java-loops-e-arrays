@@ -15,6 +15,8 @@ https://www.linkedin.com/in/cami-la/
   - `break` e `continue`
 - _Arrays_ - Vetores ou matrizes
   - `for-each`
+  - Classe `Random()`
+  - _Loops_ aninhados
 
 ### Materiais de apoio
 - https://github.com/cami-la/loops-e-arrays
